@@ -23,7 +23,7 @@ function scrollTo(id) {
 }
 
 // ─── App link helpers ───
-const APP = '../frontend/#'
+const APP = 'https://varme32.github.io/sahvikaas/#'
 const appLink = (path) => `${APP}${path}`
 
 // ─── Stagger class helper ───
